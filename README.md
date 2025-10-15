@@ -6,5 +6,5 @@
 
 ## Tech stack
 
-## Phase status (e.g. "Conception phase", "Development phase")
+## Phase status (e.g. "Conception phase", "Development/Reflection phase", "Finalization Phase")
 
