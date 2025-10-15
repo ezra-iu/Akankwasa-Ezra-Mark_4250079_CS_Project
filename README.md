@@ -1,1 +1,5 @@
-# Akankwasa-Ezra-Mark_CS_Portfolio_Project
+##Project Title
+##Problem Statement/Abstract
+##Goals/Requirements
+##Tech stack
+##Phase status (e.g. "Conception phase", "Development phase")
