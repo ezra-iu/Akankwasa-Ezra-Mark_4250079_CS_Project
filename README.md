@@ -1,10 +1,10 @@
-##Project Title
+## Project Title
 
-##Problem Statement/Abstract
+## Problem Statement/Abstract
 
-##Goals/Requirements
+## Goals/Requirements
 
-##Tech stack
+## Tech stack
 
-##Phase status (e.g. "Conception phase", "Development phase")
+## Phase status (e.g. "Conception phase", "Development phase")
 
